@@ -1,0 +1,8 @@
+#autores{
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+    /*background-image: url(/onePage/images/git.jpg);*/
+    background-color: rgb(19, 19, 27);
+    color: #ffffff;
+}
